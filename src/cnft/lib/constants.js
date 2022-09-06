@@ -79,10 +79,10 @@ export const supportedPools = [
      {
       pid: 1,
       lpAddresses: {
-        56: '0xd1bAbB2dA509eA5d13dBD66d9a3fbae347A04578',
+        97: '0xd1bAbB2dA509eA5d13dBD66d9a3fbae347A04578',
       },
       tokenAddresses: {
-        56: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
       },
       name: 'CNFT-CHS',
       symbol: 'CNFT-CHS LP',
@@ -103,10 +103,10 @@ export const supportedPools = [
     {
       pid: 2,
       lpAddresses: {
-        56: '0xc57F2a63cf2014E739126770f4094432ef4f852E',
+        97: '0xc57F2a63cf2014E739126770f4094432ef4f852E',
       },
       tokenAddresses: {
-        56: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
       },
       name: 'CNFT-BUSD',
       symbol: 'CNFT-BUSD LP',
@@ -127,10 +127,10 @@ export const supportedPools = [
     {
       pid: 3,
       lpAddresses: {
-        56: '0x33c3bd0bd6071d12190538185364dF4c8877f49e',
+        97: '0x33c3bd0bd6071d12190538185364dF4c8877f49e',
       },
       tokenAddresses: {
-        56: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
       },
       name: 'CNFT-USDT',
       symbol: 'CNFT-USDT LP',
@@ -151,10 +151,10 @@ export const supportedPools = [
         {
           pid: 6,
           lpAddresses: {
-            56: '0x4a1cee9FCa9de287d93e3281C12879e3aec5F594',
+            97: '0x4a1cee9FCa9de287d93e3281C12879e3aec5F594',
           },
           tokenAddresses: {
-            56: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+            97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
           },
           name: 'Cake-LP',
           symbol: 'Cake-LP',
@@ -174,10 +174,10 @@ export const supportedPools = [
              {
       pid: 0,
       lpAddresses: {
-        56: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
       },
       tokenAddresses: {
-        56: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
       },
       name: 'CNFT',
       symbol: 'CNFT LP',
