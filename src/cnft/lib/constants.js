@@ -82,7 +82,7 @@ export const supportedPools = [
         97: '0xd1bAbB2dA509eA5d13dBD66d9a3fbae347A04578',
       },
       tokenAddresses: {
-        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
       },
       name: 'CNFT-CHS',
       symbol: 'CNFT-CHS LP',
@@ -106,7 +106,7 @@ export const supportedPools = [
         97: '0xc57F2a63cf2014E739126770f4094432ef4f852E',
       },
       tokenAddresses: {
-        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
       },
       name: 'CNFT-BUSD',
       symbol: 'CNFT-BUSD LP',
@@ -130,7 +130,7 @@ export const supportedPools = [
         97: '0x33c3bd0bd6071d12190538185364dF4c8877f49e',
       },
       tokenAddresses: {
-        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
       },
       name: 'CNFT-USDT',
       symbol: 'CNFT-USDT LP',
@@ -154,7 +154,7 @@ export const supportedPools = [
             97: '0x4a1cee9FCa9de287d93e3281C12879e3aec5F594',
           },
           tokenAddresses: {
-            97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+            97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
           },
           name: 'Cake-LP',
           symbol: 'Cake-LP',
@@ -174,10 +174,10 @@ export const supportedPools = [
              {
       pid: 0,
       lpAddresses: {
-        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
       },
       tokenAddresses: {
-        97: '0xc6D866628B5A1C63E196557C1BA189211b779F64',
+        97: '0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db',
       },
       name: 'CNFT',
       symbol: 'CNFT LP',
