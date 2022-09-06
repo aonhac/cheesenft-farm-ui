@@ -70,9 +70,9 @@ const Providers: React.FC = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
       <UseWalletProvider
-        chainId={56}
+        chainId={97}
         connectors={{
-          walletconnect: { rpcUrl: 'https://bsc-dataseed1.defibit.io' },
+          walletconnect: { rpcUrl: 'https://data-seed-prebsc-1-s1.binance.org:8545/' },
         }}
       >
         <CnftProvider>
